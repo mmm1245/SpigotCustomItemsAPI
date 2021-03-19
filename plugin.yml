@@ -1,0 +1,9 @@
+name: customItemAPI
+version: 1.0
+author: mmm1245
+main: com.github.mmm1245.spigot.customItemsAPI.CustomItemsMain
+commands:
+  getitem:
+    description: gives player specified item
+    usage: /<command> <item>
+    permission: customitemapi.getitem
